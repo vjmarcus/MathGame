@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_size">28sp</dimen>
+    <dimen name="text_view_padding">32dp</dimen>
+    <dimen name="text_view_size_top">24sp</dimen>
+    <dimen name="text_view_top_margin">16dp</dimen>
+</resources>

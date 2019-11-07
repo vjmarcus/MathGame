@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Math game</string>
+    <string name="button_start_new_game">Начать игру заново</string>
+</resources>
