@@ -1,6 +1,6 @@
 # MathGame
 Simple Quiz mathemathic game
 
-![Альтернативный текст](http://www.picshare.ru/uploads/191107/UQ4hz4nqll.jpg)
-![Альтернативный текст](http://www.picshare.ru/uploads/191107/bW8h6C47WQ.jpg)
-![Альтернативный текст](http://www.picshare.ru/uploads/191107/Ze8t2pXh9D.jpg)
+![Альтернативный текст](https://i.ibb.co/xf9WtS2/Screenshot-1573133292.png)
+![Альтернативный текст](https://i.ibb.co/kcm0SXJ/Screenshot-1573133286.png)
+![Альтернативный текст](https://i.ibb.co/cwyKDkY/Screenshot-1573133282.png)
